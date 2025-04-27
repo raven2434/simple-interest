@@ -3,7 +3,7 @@ A Shell script project to calculate Simple Interest.
 
 # Simple Interest Calculator
 
-This is a basic Shell Script project to calculate Simple Interest based on user input values for Principal, Rate of Interest, and Time.
+This is a basic ell Script project to calculate Simple Interest based on user input values for Principal, Rate of Interest, and Time.
 
 ## Usage
 - Run the `simple-interest.sh` script.
